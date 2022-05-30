@@ -95,6 +95,7 @@ with open(file_to_save, "w") as txt_file:
 
     # Print the winning candidates' results to the terminal.
     winning_candidate_summary = (
+        
         f"-------------------------\n"
         f"Winner: {winning_candidate}\n"
         f"Winning Vote Count: {winning_count:,}\n"
