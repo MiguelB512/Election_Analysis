@@ -2,7 +2,7 @@
 
 ## Overview
 
-The purpose of this project was to analyze and summarize the election results for three Colorado counties and output the results into an easy to read text file. When completed, the text file shows analytics such as votes per county, total votes, the winner of the election and more. The benefit of using code and computers to do the work for us is vastly greater than sitting and counting the votes by hand. Using Python, math equations and election results can be displayed in mere seconds. 
+The purpose of this project was to analyze and summarize the election results from 2018 for three Colorado counties and output the results into an easy to read text file. When completed, the text file shows analytics such as votes per county, total votes, the winner of the election and more. The benefit of using code and computers to do the work for us is vastly greater than sitting and counting the votes by hand. Using Python, math equations and election results can be displayed in mere seconds. 
 
 ## Election-Audit Results
 
@@ -18,8 +18,38 @@ In total, there were 369,711 votes cast between the three counties. As of 2020, 
 
 When looking at votes per county it's clear that Denver county had the larget turnout at 82.8% of the total votes. One might think that this is because Denver has a higher population, but that is not quite the case. The population of Denver county (715,878) is not much bigger than Arapahoe (649,980) or Jefferson (578,795), yet it has a 70% higher turnout rate than the next county (Jefferson). From this analysis, it is unclear why that may be the case. 
 
+![County winner](https://user-images.githubusercontent.com/60283799/171492660-ed327bf7-af48-4b19-ac1a-98bc17abe789.PNG)
+
 ### Votes per Candidate
+
+![Candidate totals](https://user-images.githubusercontent.com/60283799/171494102-8248905c-3710-4cdb-94d6-38b99ecc0717.PNG)
+
+The totals and percentages for the candidates were slightly closer than those for the counties, but not much. Charles made up for 23.0% (85,213) of the total election with Raymond Anthony Doane only getting 3.1% (11,606) of the votes. 
 
 ### Election Winner 
 
+![Winner](https://user-images.githubusercontent.com/60283799/171495656-3087452e-fae7-459f-ad89-7bdf4cc88ada.PNG)
+
+The landslide winner in this election was Diana Degette with 73.8% (272,892) of the total votes. 
+
 ## Summary 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
