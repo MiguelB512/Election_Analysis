@@ -14,6 +14,10 @@ In total, there were 369,711 votes cast between the three counties. As of 2020, 
 
 ### Votes per County 
 
+![Votes per county](https://user-images.githubusercontent.com/60283799/171492086-f6624d0a-05b7-44b4-80e0-b44a52f195af.PNG)
+
+When looking at votes per county it's clear that Denver county had the larget turnout at 82.8% of the total votes. One might think that this is because Denver has a higher population, but that is not quite the case. The population of Denver county (715,878) is not much bigger than Arapahoe (649,980) or Jefferson (578,795), yet it has a 70% higher turnout rate than the next county (Jefferson). From this analysis, it is unclear why that may be the case. 
+
 ### Votes per Candidate
 
 ### Election Winner 
