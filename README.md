@@ -26,7 +26,7 @@ When looking at votes per county it's clear that Denver county had the largest t
 
 The totals and percentages for the candidates were slightly closer than those for the counties, but not much. Charles made up for 23.0% (85,213) of the total election with Raymond Anthony Doane only getting 3.1% (11,606) of the votes. 
 
-### Election Winner 
+- ### Election Winner 
 
 ![Winner](https://user-images.githubusercontent.com/60283799/171495656-3087452e-fae7-459f-ad89-7bdf4cc88ada.PNG)
 
@@ -41,21 +41,3 @@ Some changes that could be made are:
 - Modifying the script to read from a datatbase or API and convert the information to a text file or excel output.
 - Writing the data to a website that neatly displays the results. Also possible to do a live version of this and have the results displayed as the votes come in.
 - Adding other calculations such as percentage of votes by age, gender, income, or race.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
